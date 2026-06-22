@@ -1285,7 +1285,7 @@ export default function FleetOpsDemo() {
       >
         <span className="inline-flex items-center gap-1.5">
           <span className="w-2 h-2 rounded-full bg-green-400 animate-pulse"></span>
-          DEMO MODE — Sample data only | Client A Fleet Operations
+          DEMO MODE — Sample data and limited interfaces only | Client A Fleet Operations
         </span>
         {simCount > 0 && (
           <span className="bg-green-500/20 text-green-300 border border-green-500/30 px-2 py-0.5 rounded-full text-[10px]">
